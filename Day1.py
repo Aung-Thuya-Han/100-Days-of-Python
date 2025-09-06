@@ -17,4 +17,4 @@ print(logo)
 
 user_town = input("What town do you live in? ")
 user_pet = input("What is your pet name? ")
-print(user_town + " " + user_pet)
+print("Your bandname is " + user_town + " " + user_pet + ".")
